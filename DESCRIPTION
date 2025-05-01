@@ -1,6 +1,6 @@
 Package: ParquetConverter
 Imports:
-  readr
+  readr,
   arrow
 Type: Package
 Title: Convert Parquet Files to TSV Files

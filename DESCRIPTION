@@ -1,0 +1,13 @@
+Package: ParquetConverter
+Imports:
+  readr
+  arrow
+Type: Package
+Title: Convert Parquet Files to TSV Files
+Version: 0.0.1
+Author: Kyle Swovick
+Maintainer: The package maintainer <kyle_swovick@urmc.rochester.edut>
+Description: This package is made to convert parquet reports ("report.parquet") Generated from DIA-NN version 1.9 and above into a TSV file.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
